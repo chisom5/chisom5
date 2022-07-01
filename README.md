@@ -1,7 +1,5 @@
-<p class="has-line-data" data-line-start="0" data-line-end="2" align="center"> Hi there! 👋,  I'm Chisom Okoye <br>
-Frontend Engineer with the Innovation team at KPMG Nigeria. </p>
-
-<p align="center">[Twitter](https://twitter.com/chisom_code) || [LinkedIn](https://www.linkedin.com/in/chisom-okoye-399112122/)</p>
+### <p class="has-line-data" data-line-start="0" data-line-end="2" align="center"> Hi there! 👋,  I'm Chisom Okoye </p>
+<p align="center">Frontend Engineer with the Innovation team at KPMG Nigeria. </br> <a href="https://twitter.com/chisom_code">🐣 Twitter</a> || <a href="https://www.linkedin.com/in/chisom-okoye-399112122/"> 💼 LinkedIn</a></p>
 
 I love to write, code and learn new things from people.
 
