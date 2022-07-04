@@ -3,7 +3,7 @@
 
 I love to write, code and learn new things from people.
 
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Aside writing codes, I love playing videos games
 - 🔭 I’m currently working on becoming a better version of myself.
 
