@@ -1,10 +1,11 @@
 ### <p class="has-line-data" data-line-start="0" data-line-end="2" align="center"> Hi there! 👋,  I'm Chisom Okoye </p>
 <span>She/Her</span>
 
-<p align="center">I'm a Frontend Engineer with the Innovation team at KPMG Nigeria. where I build product that delight customers through a blend of frontend engineering and design experiences, <br />
+<div>
+<p>I'm a Frontend Engineer with the Innovation team at KPMG Nigeria. where I build product that delight customers through a blend of frontend engineering and design experiences,
 I basically automate task for KPMG Nigeria. and I love to write, code and learn new things from people.
 </p>
-
+</div>
 
   
 ## 📌 Skills
