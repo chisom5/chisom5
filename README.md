@@ -1,12 +1,12 @@
 ### <p class="has-line-data" data-line-start="0" data-line-end="2" align="center"> Hi there! 👋,  I'm Chisom Okoye </p>
-<p align="center">Frontend Engineer with the Innovation team at KPMG Nigeria. </br> <a href="https://twitter.com/chisom_code">🐣 Twitter</a> || <a href="https://www.linkedin.com/in/chisom-okoye-399112122/"> 💼 LinkedIn</a></p>
+<span>She/Her</span>
 
-I love to write, code and learn new things from people.
+<p align="center">I'm a Frontend Engineer with the Innovation team at KPMG Nigeria. where I build product that delight customers through a blend of frontend engineering and design experiences, <br />
+I basically automate task for KPMG Nigeria. and I love to write, code and learn new things from people.
+</p>
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Aside writing codes, I love playing videos games
-- 🔭 I’m currently working on becoming a better version of myself.
 
+  
 ## 📌 Skills
 - Languages: JavaScript
 - Tools: Git & Github, VS Code
@@ -42,6 +42,7 @@ I am open to explore more open source projects.
 ## 💡 Status
 - 💻 Currently looking for a new Frontend Engineer role.
 - 📖 Currently learning React-native for mobile apps development.
+- 🔭 I’m currently working on becoming a better version of myself.
 
 ## 📲 Get in touch
 - [Resume](https://drive.google.com/file/d/18mUm61wTRcJq51LNfW4yCfr-IwreODfs/view?usp=share_link)
