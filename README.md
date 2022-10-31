@@ -11,7 +11,8 @@ I love to write, code and learn new things from people.
 - Languages: JavaScript
 - Tools: Git & Github, VS Code
 
-# Technologies used: 
+Technologies used: 
+
 - Reactjs
 - Redux (State Management)
 - Styled-Components, Styled-Systems
