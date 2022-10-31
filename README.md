@@ -7,6 +7,19 @@ I love to write, code and learn new things from people.
 - ⚡ Fun fact: Aside writing codes, I love playing videos games
 - 🔭 I’m currently working on becoming a better version of myself.
 
+### 📌 Skills
+- Languages: JavaScript
+- Tools: Git & Github, VS Code
+
+## Technologies used: 
+- Reactjs
+- Redux (State Management)
+- Styled-Components, Styled-Systems
+- Ant Design (UI Component Library)
+- API integration (REST APIs)
+- Testing (React Testing Library & Jest)
+
+
 ### ✍️ Writing
 I write content on Software development with JavaScript, ReactJS and Nodejs etc. Some of my works are:
 
@@ -21,3 +34,16 @@ I write content on Software development with JavaScript, ReactJS and Nodejs etc.
 - [Technojam-frontend](https://github.com/technojam/technojam-frontend)
 
 I am open to explore more open source projects.
+
+### 🔎 Add ons
+- Fun fact: I love seeing movies and playing videos games at my leisure time.
+
+### 💡 Status
+- 💻 Currently looking for a new Frontend Engineer role.
+- 📖 Currently learning React-native for mobile apps development.
+
+### 📲 Get in touch
+- [Resume](https://drive.google.com/file/d/18mUm61wTRcJq51LNfW4yCfr-IwreODfs/view?usp=share_link)
+- [Twitter](https://twitter.com/chisom_code)
+- [LinkedIn](https://www.linkedin.com/in/chisom-okoye-399112122/)
+- [Medium](https://medium.com/@chisomokoye)
