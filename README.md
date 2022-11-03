@@ -43,7 +43,7 @@ I am open to explore more open source projects.
 ## 💡 Status
 - 💻 Currently looking for a new Frontend Engineer role.
 - 📖 Currently learning React-native for mobile apps development.
-- 🔭 I’m currently working on becoming a better version of myself.
+- 🔭 And I'm working on becoming a better version of myself.
 
 ## 📲 Get in touch
 - [Resume](https://drive.google.com/file/d/18mUm61wTRcJq51LNfW4yCfr-IwreODfs/view?usp=share_link)
