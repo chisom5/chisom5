@@ -2,8 +2,7 @@
 <span fontStyle='italic'>She/Her</span>
 
 <div>
-<p>I'm a Frontend Engineer with the Innovation team at KPMG Nigeria. where I build product that delight customers through a blend of frontend engineering and design experiences,
-I basically automate task for KPMG Nigeria and I love to write, code and learn new things from people.
+<p>I'm a Currently a Web React Engineer with Kuda. I am responsible for ensuring the alignment of web design and user experience requirements, optimizing web applications for maximum efficiency and maintaining brand consistency across all web pages. and I love to write, code and learn new things from people.
 </p>
 </div>
 
