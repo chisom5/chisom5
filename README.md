@@ -13,7 +13,8 @@
 
 Technologies used: 
 
-- Reactjs
+- GatsbyJs
+- ReactJs
 - Redux (State Management)
 - Styled-Components, Styled-Systems
 - Ant Design (UI Component Library)
