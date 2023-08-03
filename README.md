@@ -33,6 +33,7 @@ I write content on Software development with JavaScript, ReactJS and Nodejs etc.
 
 - [SolidJS Docs](https://github.com/solidjs/solid-docs-next/)
 - [Technojam-frontend](https://github.com/technojam/technojam-frontend)
+- [Infisical](https://github.com/Infisical/infisical)
 
 I am open to explore more open source projects.
 
