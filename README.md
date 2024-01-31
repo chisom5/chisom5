@@ -49,7 +49,6 @@ I am open to explore more open source projects.
 - 🔭 And I'm working on becoming a better version of myself.
 
 ## 📲 Get in touch
-- [Resume](https://drive.google.com/file/d/18mUm61wTRcJq51LNfW4yCfr-IwreODfs/view?usp=share_link)
 - [Twitter](https://twitter.com/chisom_code)
 - [LinkedIn](https://www.linkedin.com/in/chisom-okoye-399112122/)
 - [Medium](https://medium.com/@chisomokoye)
