@@ -32,9 +32,9 @@ I write content on Software development with JavaScript, ReactJS and Nodejs etc.
 
 ## 👨‍💻 Open Source Contributions
 
-- [SolidJS Docs](https://github.com/solidjs/solid-docs-next/) SolidJs is a JavaScript framework that supports binding data to elements that it then syncs and displays on web pages.
+- [SolidJS Docs](https://github.com/solidjs/solid-docs-next/) 
 
-- [Infisical](https://github.com/Infisical/infisical) Infisical is an open-source, end-to-end encrypted platform for secret management.
+- [Infisical](https://github.com/Infisical/infisical)
   
 - [Technojam-frontend](https://github.com/technojam/technojam-frontend)
 
