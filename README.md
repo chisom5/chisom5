@@ -2,7 +2,7 @@
 <span fontStyle='italic'>She/Her</span>
 
 <div>
-<p>A Frontend Engineer at Kuda. I am responsible for ensuring the alignment of web design and user experience requirements, optimizing web applications for maximum efficiency and maintaining brand consistency across all web pages. and I love to write, code and learn new things from people.
+<p>A Frontend Engineer with over 5 years of experience building scalable web apps across fintech and enterprise environment. And I love to write, code and learn new things from people.
 </p>
 </div>
 
@@ -15,15 +15,17 @@ Technologies used:
 
 - GatsbyJs
 - ReactJs
-- Redux (State Management)
-- Styled-Components, Styled-Systems
-- Ant Design (UI Component Library)
+- TypeScript
+- Redux, Context API (State Management)
+- Tailwind CSS
+- Styled-Components, 
+- Shadcn (Radix UI - Component Library)
 - API integration (REST APIs)
 - Testing (React Testing Library & Jest)
 
 
 ## ✍️ Writing
-I write content on Software development with JavaScript, ReactJS and Nodejs etc. Some of my works are:
+I write content on Software development with JavaScript, TypeScript, ReactJS and Nodejs etc. Some of my works are:
 
 - [Creating a To-do App with Node.js + Express and PostgreSQL database](https://medium.com/codeburst/creating-a-todo-app-with-node-js-express-and-postgresql-database-6dbf80c3fe9c)
 - [Leveraging TypeScript to Create Better Polymorphic React Components](https://betterprogramming.pub/polymorphic-react-components-in-typescript-b6ce455ca70e)
@@ -45,7 +47,7 @@ I am open to explore more open source projects.
 
 ## 💡 Status
 - 💻 Currently looking for a new Frontend Engineer role.
-- 📖 Currently learning React-native for mobile apps development.
+- 📖 Currently learning server-side system design and data flow with C# and ASP.NET core.
 - 🔭 And I'm working on becoming a better version of myself.
 
 ## 📲 Get in touch
