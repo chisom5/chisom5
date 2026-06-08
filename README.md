@@ -8,7 +8,7 @@
 
   
 ## 📌 Skills
-- Languages: JavaScript
+- Languages: JavaScript, C#
 - Tools: Git & Github, VS Code
 
 Technologies used: 
