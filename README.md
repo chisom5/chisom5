@@ -1,4 +1,4 @@
-### <p class="has-line-data" data-line-start="0" data-line-end="2" align="center"> Hi there! 👋,  I'm Chisom Okoye </p>
+### <p class="has-line-data" data-line-start="0" data-line-end="2" align="center"> Hello! 👋,  I'm Chisom Okoye </p>
 <span fontStyle='italic'>She/Her</span>
 
 <div>
