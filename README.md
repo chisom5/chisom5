@@ -8,7 +8,7 @@
 
   
 ## 📌 Skills
-- Languages: JavaScript, C#
+- Languages: TypeScript, JavaScript, C#, HTML5, CSS3
 - Tools: Git & Github, VS Code
 
 Technologies used: 
@@ -18,9 +18,10 @@ Technologies used:
 - TypeScript
 - Redux, Context API (State Management)
 - Tailwind CSS
-- Styled-Components, 
+- Styled-Components,
+- Ant Design (UI Component)
 - Shadcn (Radix UI - Component Library)
-- API integration (REST APIs)
+- API integration (REST, GraphQL)
 - Testing (React Testing Library & Jest)
 
 
